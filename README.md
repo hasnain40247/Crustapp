@@ -1,3 +1,4 @@
+
 Refer to this repository to apply for free crust storage specifically for developers and this hackathon. [Github Repo](https://github.com/crustio/free-storage)
 
 Video demo: [link](https://drive.google.com/file/d/1QqfHWOrBblI-qYQEgO1GR4KOrTCRZb7d/view?usp=sharing)
@@ -31,6 +32,9 @@ Note: In case there's a dependency error regarding node-fetch package, ececute t
 2. Also replace the seed value named as *krp* in *crust.js* file with your seed you saved during CRUST wallet installation.
 3. Now run the file using<br>
 ```node crust.js```<br>
+
+# Notion Link for reference
+[Link](https://amanv2k.notion.site/amanv2k/hacKnight-e6db104a46cf40c8a87488433d753414)
 
 # Resources
 1. https://wiki.crust.network/docs/en/build101
