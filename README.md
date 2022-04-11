@@ -1,3 +1,7 @@
+Refer to this repository to apply for free crust storage specifically for developers and this hackathon. [Github Repo](https://github.com/crustio/free-storage)
+
+Video demo: [link](https://drive.google.com/file/d/1QqfHWOrBblI-qYQEgO1GR4KOrTCRZb7d/view?usp=sharing)
+
 # Steps to run the CRUST App
 
 1. Fork the repository<br>
